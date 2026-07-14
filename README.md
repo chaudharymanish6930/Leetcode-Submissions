@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
 | [3115-maximum-prime-difference](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3115-maximum-prime-difference) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
