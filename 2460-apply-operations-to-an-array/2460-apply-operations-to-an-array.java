@@ -7,14 +7,17 @@ class Solution {
             }
         }
 
-        int[] ans= new int[nums.length];
         int x=0;
-        for(int num:nums){
-            if(num!=0){
-                ans[x]=num;
+        for(int i=0; i<nums.length; i++){
+            if(nums[i]!=0){
+                nums[x]=nums[i];
                 x++;
             }
         }
-        return ans;
+        while(x<nums.length){
+            nums[x]=0;
+            x++;
+        }
+        return nums;
     }
 }
