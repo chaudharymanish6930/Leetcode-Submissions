@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
