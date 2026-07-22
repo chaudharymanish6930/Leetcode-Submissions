@@ -1,0 +1,20 @@
+class Solution {
+    public int passwordStrength(String password) {
+        Set<Character> seen=new HashSet<>();
+        int strength = 0;
+
+        for(char c:password.toCharArray()) {
+            if(seen.contains(c)) continue;
+            seen.add(c);
+            if(Character.isLowerCase(c))
+                strength +=1;
+            else if(Character.isUpperCase(c))
+                strength +=2;
+            else if(Character.isDigit(c))
+                strength +=3;
+            else
+                strength += 5;
+        }
+        return strength;
+    }
+}
