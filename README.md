@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
 | [3115-maximum-prime-difference](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3115-maximum-prime-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [3941-password-strength](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3941-password-strength) |
 ## Greedy
 |  |
