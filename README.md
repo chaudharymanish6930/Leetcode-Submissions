@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
