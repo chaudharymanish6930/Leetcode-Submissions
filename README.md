@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3941-password-strength](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3941-password-strength) |
 ## Greedy
 |  |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
