@@ -1,32 +1,40 @@
 class Solution {
     public String reverseByType(String s) {
-        String str="";
-        String chr="";
+        char[] arr= s.toCharArray();
+        int x=0;
+        int y=arr.length-1;
 
-        Set<Character> ch= Set.of('!','@','#','$','%','^','&','*','(',')');
+        while(x<y){
+            while(x<y && isSpecial(arr[x])) x++;
+            while(x<y && isSpecial(arr[y])) y--;
 
-        for(int i=0; i<s.length(); i++){
-            if(ch.contains(s.charAt(i))){
-                chr += s.charAt(i);
-            }
-            else{
-                str += s.charAt(i);
+            if(x<y){
+                char a=arr[x];
+                arr[x]= arr[y];
+                arr[y]=a;
+                x++;
+                y--;
             }
         }
 
-        int i=str.length()-1;
-        int j=chr.length()-1;
-        String ans="";
-        for(int k=0; k<s.length(); k++){
-            if(ch.contains(s.charAt(k))){
-                ans += chr.charAt(j);
-                j--;
-            }
-            else{
-                ans += str.charAt(i);
-                i--;
+        x=0;
+        y=arr.length-1;
+        while(x<y){
+            while(x<y && !isSpecial(arr[x])) x++;
+            while(x<y && !isSpecial(arr[y])) y--;
+
+            if(x<y){
+                char t=arr[x];
+                arr[x]=arr[y];
+                arr[y]=t;
+                x++;
+                y--;
             }
         }
-        return ans;
+        return new String(arr);
+    }
+
+    public boolean isSpecial(char c){
+        return "!@#$%^&*()".indexOf(c) !=-1;
     }
 }
