@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
+| [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3115-maximum-prime-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
