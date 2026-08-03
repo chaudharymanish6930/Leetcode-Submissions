@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
 ## Sliding Window
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
