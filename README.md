@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0896-monotonic-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
