@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3115-maximum-prime-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
