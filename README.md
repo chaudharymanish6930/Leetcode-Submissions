@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0896-monotonic-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0896-monotonic-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
