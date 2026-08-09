@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
