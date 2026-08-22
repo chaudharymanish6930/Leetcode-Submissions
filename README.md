@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
 ## Sliding Window
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0136-single-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
