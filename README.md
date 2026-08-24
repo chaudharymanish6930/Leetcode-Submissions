@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
+| [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3115-maximum-prime-difference) |
@@ -161,4 +162,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0413-arithmetic-slices) |
+| [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
