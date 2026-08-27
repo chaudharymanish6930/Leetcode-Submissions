@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0482-license-key-formatting](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
+| [0551-student-attendance-record-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
