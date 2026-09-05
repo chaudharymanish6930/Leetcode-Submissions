@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [2373-largest-local-values-in-a-matrix](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
