@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0413-arithmetic-slices) |
 | [0896-monotonic-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0274-h-index) |
+| [0922-sort-array-by-parity-ii](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0016-3sum-closest) |
+| [0922-sort-array-by-parity-ii](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
