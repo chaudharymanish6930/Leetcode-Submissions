@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2490-circular-sentence](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3803-count-residue-prefixes](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3803-count-residue-prefixes) |
