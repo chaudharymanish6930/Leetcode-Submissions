@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2965-find-missing-and-repeated-values](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
