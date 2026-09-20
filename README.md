@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3803-count-residue-prefixes](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3856-trim-trailing-vowels) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
