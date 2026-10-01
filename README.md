@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -249,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
