@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
