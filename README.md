@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
 | [0551-student-attendance-record-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
