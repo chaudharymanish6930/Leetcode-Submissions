@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
