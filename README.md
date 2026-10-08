@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2490-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2810-faulty-keyboard) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3803-count-residue-prefixes](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3803-count-residue-prefixes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
