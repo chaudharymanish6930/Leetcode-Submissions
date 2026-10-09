@@ -1,18 +1,14 @@
 class Solution {
     public String finalString(String s) {
-        String str="";
+        StringBuilder sb=new StringBuilder();
         for(char c:s.toCharArray()){
-            String x="";
             if(c=='i'){
-                for(int i=str.length()-1; i>=0; i--){
-                    x +=str.charAt(i);
-                }
-                str=x;
+                sb.reverse();
             }
             else{
-                str +=c;
+                sb.append(c);
             }
         }
-        return str;
+        return sb.toString();
     }
 }
