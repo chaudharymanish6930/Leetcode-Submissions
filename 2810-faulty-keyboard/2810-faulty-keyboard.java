@@ -1,14 +1,22 @@
 class Solution {
     public String finalString(String s) {
-        StringBuilder sb=new StringBuilder();
-        for(char c:s.toCharArray()){
-            if(c=='i'){
-                sb.reverse();
+        Deque<Character> dq = new ArrayDeque<>();
+        boolean reversed=false;
+        for(char c:s.toCharArray()) {
+            if(c == 'i'){
+                reversed=!reversed;
+            }
+            else if (reversed){
+                dq.addFirst(c);
             }
             else{
-                sb.append(c);
+                dq.addLast(c);
             }
         }
-        return sb.toString();
+        StringBuilder sb=new StringBuilder();
+        for (char c:dq){
+            sb.append(c);
+        }
+        return reversed? sb.reverse().toString() : sb.toString();
     }
 }
