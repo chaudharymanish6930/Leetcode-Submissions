@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2678-number-of-senior-citizens](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2678-number-of-senior-citizens) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
