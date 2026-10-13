@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3903-smallest-stable-index-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
