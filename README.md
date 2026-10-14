@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1323-maximum-69-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [1323-maximum-69-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
