@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0413-arithmetic-slices](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0413-arithmetic-slices) |
+| [0500-keyboard-row](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0896-monotonic-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0922-sort-array-by-parity-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
