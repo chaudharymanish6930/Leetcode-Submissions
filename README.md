@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0413-arithmetic-slices](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0896-monotonic-array](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/0908-smallest-range-i) |
 | [1137-n-th-tribonacci-number](https://github.com/chaudharymanish6930/Leetcode-Submissions/tree/master/1137-n-th-tribonacci-number) |
